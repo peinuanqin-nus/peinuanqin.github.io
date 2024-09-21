@@ -5,8 +5,10 @@ authors:
 - Ruotong Zou
 - Shuyu Yin
 - Tianqi Song
-- Peinuan Qin
+- admin
 - Yi-Chieh Lee
+
+url_pdf: 'https://arxiv.org/pdf/2403.03742'
 date: '2024-01-01'
 publishDate: '2024-09-21T08:12:44.681856Z'
 publication_types:

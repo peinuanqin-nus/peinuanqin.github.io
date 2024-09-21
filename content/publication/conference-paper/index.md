@@ -1,15 +1,15 @@
 ---
-title: 'Mitigating Ageism through Virtual Reality: Intergenerational Collaborative Escape Room Design'
+# title: 'Mitigating Ageism through Virtual Reality: Intergenerational Collaborative Escape Room Design'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors:
-  - Zou Ruotong 
-  - Yin Shuyu 
-  - Song Tianqi 
-  - admin
-  - Lee, Yi-Chieh
+# authors:
+#   - Zou Ruotong 
+#   - Yin Shuyu 
+#   - Song Tianqi 
+#   - admin
+#   - Lee, Yi-Chieh
 
 
 # Author notes (optional)
@@ -18,10 +18,10 @@ authors:
 #   - 'Equal contribution'
 
 # date: '2024'
-doi: ''
+# doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024'
+# publishDate: '2024'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,8 +29,8 @@ publishDate: '2024'
 # publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Extended Abstracts of the CHI Conference on Human Factors in Computing Systems*
-publication_short: In *EACHI*
+# publication: In *Extended Abstracts of the CHI Conference on Human Factors in Computing Systems*
+# publication_short: In *EACHI*
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -48,7 +48,7 @@ publication_short: In *EACHI*
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2403.03742'
+# url_pdf: 'https://arxiv.org/pdf/2403.03742'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
@@ -81,28 +81,6 @@ url_pdf: 'https://arxiv.org/pdf/2403.03742'
 
 
 
-
-
-
-
-title: 'Mitigating Ageism through Virtual Reality: Intergenerational Collaborative Escape Room Design'
-authors:
-  - Zou Ruotong 
-  - Yin Shuyu 
-  - Song Tianqi 
-  - admin
-  - Lee, Yi-Chieh
-
-
-# Author notes (optional)
-# author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
-doi: ''
-publishDate: '2024'
-publication: In *Extended Abstracts of the CHI Conference on Human Factors in Computing Systems*
-publication_short: In *EACHI*
-url_pdf: 'https://arxiv.org/pdf/2403.03742'
 ---
 
 {{% callout note %}}
