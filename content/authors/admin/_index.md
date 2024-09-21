@@ -92,30 +92,30 @@ work:
 #       - Architectural design
 #       - Technical solution decision-making
 
-  - position: Research Assistant
-      company_name: Tsinghua University
-      company_url: 'https://www.cas-ruiyi.com/pages/page-about.html'
-      company_logo: ''
-      date_start: 2022-09-01
-      date_end: 2022-02-01
-      summary: |2-
-        Responsibilities include:
-        - Training data collection and processing of movies (359,405 commentaries, 173M dataset)
-        - Trained and evaluated GPT-2 on movie script generation tasks.
-
-  - position: Deep Learning Algorithm Engineer
-    company_name: cas-ruiyi, Institute of Software, Chinese Academy of Sciences
+- position: Research Assistant
+    company_name: Tsinghua University
     company_url: 'https://www.cas-ruiyi.com/pages/page-about.html'
     company_logo: ''
-    date_start: 2021-11-15
-    date_end: 2022-07-01
-    summary: |2-
+    date_start: 2022-09-01
+    date_end: 2022-02-01
+    summary: |
       Responsibilities include:
-      - Develop a gait parameter calculation algorithm using deep neural networks to assist in the early diagnosis of neurodegenerative diseases.
-      - Algorithm testing and optimization
-      - Development of supporting annotation tools
-      - Publish a research paper on JMIR as the co-first author
-  
+      - Training data collection and processing of movies (359,405 commentaries, 173M dataset)
+      - Trained and evaluated GPT-2 on movie script generation tasks.
+
+- position: Deep Learning Algorithm Engineer
+  company_name: cas-ruiyi, Institute of Software, Chinese Academy of Sciences
+  company_url: 'https://www.cas-ruiyi.com/pages/page-about.html'
+  company_logo: ''
+  date_start: 2021-11-15
+  date_end: 2022-07-01
+  summary: |
+    Responsibilities include:
+    - Develop a gait parameter calculation algorithm using deep neural networks to assist in the early diagnosis of neurodegenerative diseases.
+    - Algorithm testing and optimization
+    - Development of supporting annotation tools
+    - Publish a research paper on JMIR as the co-first author
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
