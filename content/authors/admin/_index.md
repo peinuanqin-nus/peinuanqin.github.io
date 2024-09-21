@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Peinuan Qin
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Peinuan
+last_name: Qin
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😊
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD of Human Computer Interaction
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: National University of Singapore
+    url: https://nus.edu.sg/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,31 +47,29 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human Computer Interaction
+  - Human AI Interaction (Education, Communication, Cyberbullying Intervention)
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Computer Science
+    institution: National University of Singapore, [AI4SG Lab](https://www.ai4sg.org/)
+    date_start: 2024-01-15
+    date_end: 2028-01-15
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Supervised by [Prof YiChieh Lee](https://example.com). 
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: ''
+      url: ''
+  - area: Software Engineering
+    institution: University of Melbourne
+    date_start: 2021-03-12
+    date_end: 2023-12-12
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.67/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - 
+     
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
