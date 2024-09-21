@@ -4,6 +4,9 @@ title: 'Deep Learning--Assisted Gait Parameter Assessment for Neurodegenerative 
 authors:
 - Yu Jing
 - admin
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 - Xiangmin Fan
 - Wei Qiang
 - Zhu Wencheng
@@ -12,9 +15,7 @@ authors:
 - Dakuo Wang
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+
 
 featured: true
 # Featured image
