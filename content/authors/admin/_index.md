@@ -132,10 +132,10 @@ skills:
       #   # percent: 80
       #   icon: camera
 
-languages:
-  - name: English
+# languages:
+#   - name: English
     # percent: 70
-  - name: Chinese
+  # - name: Chinese
     # percent: 100
   # - name: Portuguese
   #   percent: 25
