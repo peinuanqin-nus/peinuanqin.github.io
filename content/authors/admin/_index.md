@@ -99,7 +99,7 @@ work:
     company_url: 'https://www.cas-ruiyi.com/pages/page-about.html'
     company_logo: ''
     date_start: 2021-11-15
-    date_end: 2022-7-1
+    date_end: 2022-07-01
     summary: |2-
       Responsibilities include:
       - Develop a gait parameter calculation algorithm using deep neural networks to assist in the early diagnosis of neurodegenerative diseases.
