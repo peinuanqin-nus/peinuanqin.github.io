@@ -98,7 +98,7 @@ work:
     company_logo: ''
     date_start: 2022-09-01
     date_end: 2022-02-01
-    summary: |
+    summary: |  
       Responsibilities include:
       - Training data collection and processing of movies (359,405 commentaries, 173M dataset)
       - Trained and evaluated GPT-2 on movie script generation tasks.
