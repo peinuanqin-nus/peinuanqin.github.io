@@ -65,9 +65,8 @@ education:
     institution: University of Melbourne
     date_start: 2021-03-12
     date_end: 2023-12-12
-    # summary: |
-    #   GPA: 3.67/4.0
-     
+    summary: |
+      GPA: 3.67/4.0
 
 work:
   - position: Research Assistant
