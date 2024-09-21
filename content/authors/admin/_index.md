@@ -31,28 +31,29 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:e1322754@u.nus.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
+  # - icon: brands/github
+  #   url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/peinuan-qin-2759301b3/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=peinuan+qin&btnG=
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0000-0002-8737-8369
 
 interests:
   - Human Computer Interaction
-  - Human AI Interaction (Education, Communication, Cyberbullying Intervention)
+  - Human AI Interaction 
+  - AI for Education, Communication
 
 education:
   - area: PhD Computer Science
-    institution: National University of Singapore, [AI4SG Lab](https://www.ai4sg.org/)
+    institution: National University of Singapore, AI4SG Lab
     date_start: 2024-01-15
     date_end: 2028-01-15
     summary: |
@@ -70,40 +71,42 @@ education:
       Courses included:
       - 
      
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+  # - area: BSc Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+# - position: Co-Founder & Software Engineer
+#     company_name: OfferAI
+#     company_url: 'https://www.offer-ai.net/'
+#     company_logo: ''
+#     date_start: 2024-02-01
+#     date_end: ''
+#     summary: |
+#       Responsibilities include:
+#       - Build initial front-end framework
+#       - Architectural design
+#       - Technical solution decision-making
+  - position: Deep Learning Algorithm Engineer
+    company_name: cas-ruiyi
+    company_url: 'https://www.cas-ruiyi.com/pages/page-about.html'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2021-11-15
+    date_end: 2022-7-1
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Develop a gait parameter calculation algorithm using deep neural networks to assist in the early diagnosis of neurodegenerative diseases.
+      - Algorithm testing and optimization
+      - Development of supporting annotation tools
+      - Publish a research paper on JMIR as the co-first author
+  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -112,40 +115,40 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        # percent: 90
         icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
+        # percent: 90
         icon: chart-bar
-      - name: SQL
+      - name: Deep Learning
         description: ''
-        percent: 40
+        # percent: 90
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Singing
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        # percent: 90
+        # icon: person-simple-walk
+      - name: Cooking
         description: ''
-        percent: 100
+        # percent: 100
         icon: cat
       - name: Photography
         description: ''
-        percent: 80
+        # percent: 80
         icon: camera
 
 languages:
   - name: English
-    percent: 100
+    # percent: 70
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    # percent: 100
+  # - name: Portuguese
+  #   percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
