@@ -92,16 +92,16 @@ work:
 #       - Architectural design
 #       - Technical solution decision-making
 
-- position: Research Assistant
-    company_name: Tsinghua University
-    company_url: 'https://www.cas-ruiyi.com/pages/page-about.html'
-    company_logo: ''
-    date_start: 2022-09-01
-    date_end: 2022-02-01
-    summary: |2-
-      Responsibilities include:
-      - Training data collection and processing of movies (359,405 commentaries, 173M dataset)
-      - Trained and evaluated GPT-2 on movie script generation tasks.
+  - position: Research Assistant
+      company_name: Tsinghua University
+      company_url: 'https://www.cas-ruiyi.com/pages/page-about.html'
+      company_logo: ''
+      date_start: 2022-09-01
+      date_end: 2022-02-01
+      summary: |2-
+        Responsibilities include:
+        - Training data collection and processing of movies (359,405 commentaries, 173M dataset)
+        - Trained and evaluated GPT-2 on movie script generation tasks.
 
   - position: Deep Learning Algorithm Engineer
     company_name: cas-ruiyi, Institute of Software, Chinese Academy of Sciences
