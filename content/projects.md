@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: AI4SG
+      text: I enjoy making useful tools and provide solutions for some interestingly widespread problems. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
           - project
