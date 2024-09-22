@@ -2,17 +2,25 @@
 title: 'Deep Learning--Assisted Gait Parameter Assessment for Neurodegenerative Diseases:
   Model Development and Validation'
 authors:
-- Yu Jing†
-- admin†
+- Yu Jing
+- admin
 - Xiangmin Fan
 - Wei Qiang
 - Zhu Wencheng
 - Wei Sun
 - Feng Tian
 - Dakuo Wang
-# author_notes:
-# - 'Equal contribution'
-# - 'Equal contribution'
+
+author_notes:
+- 'Equal contribution'
+- 'Equal contribution'
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+
 
 
 # Author notes (optional)

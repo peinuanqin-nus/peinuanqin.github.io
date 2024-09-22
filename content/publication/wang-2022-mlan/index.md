@@ -1,8 +1,8 @@
 ---
 title: 'MLAN: Multi-Level Attention Network'
 authors:
-- admin†
-- Qinxuan Wang†
+- admin
+- Qinxuan Wang
 - Yue Zhang
 - Xueyao Wei
 - Meiguo Gao

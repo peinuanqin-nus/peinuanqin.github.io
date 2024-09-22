@@ -1,8 +1,8 @@
 ---
 title: 'ASTS: Attention-based spectrum truncation synthesis for step frequency signals'
 authors:
-- Qinxuan Wang†
-- admin†
+- Qinxuan Wang
+- admin
 - Xueyao Wei
 - Meiguo Gao
 # Author notes (optional)
