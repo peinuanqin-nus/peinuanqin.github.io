@@ -1,5 +1,5 @@
 ---
-title: Multilingual Communication
+title: AI-Driven Multilingual Communication
 date: 2024-09-22
 external_link: ''
 # tags:
